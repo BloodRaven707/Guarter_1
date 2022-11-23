@@ -47,3 +47,18 @@
     - Создание файла README.md
     - Описание проделанных операций
     - git push -u origin main
+    
+## II. Подготовка блок-схемы для версии 1.0
+1. Разработка блок-схемы
+    - https://app.diagrams.net/
+2. Добавить блок-схему
+    - ./source/Module_1_final_v1.drawio
+    <br />
+    ![Module_1_final](./source/Module_1_final_v1.png "Блок-схема: Итоговая работа. 1-я четверть")
+    <br />
+3. Локальный комит
+    - Описание проделанных операций
+    - git add .
+    - git commit -m "Add source"
+4. Загрузка файлов проекта в GitHub
+    - git push
